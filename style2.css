@@ -1,0 +1,17 @@
+*{
+ margin:0;
+padding:0;
+font-family:'Rockwell';
+padding-bottom:7px;
+text-align:center;
+}
+
+body{
+background-image: url(../f.jpg);
+height: 100vh;
+width:200vh;
+background-size :900px;
+background-position:center;
+text-align:center;
+}
+
